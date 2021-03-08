@@ -7,6 +7,11 @@ Say goodbye to setting up django, postgres, and more. You only need to run `dock
 1. Docker
 2. docker-compose
 
+## Getting started
+
+1. In the Terminal, run `docker-compose up`
+2. To exit, Ctrl+C then run `docker-compose down`
+
 ## Adding packages with pip
 
 ```
