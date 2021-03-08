@@ -4,8 +4,8 @@ Say goodbye to setting up django, postgres, and more. You only need to run `dock
 
 ## Requirements
 
-1. Docker
-2. docker-compose
+1. Docker (20.10.3 and up)
+2. docker-compose (1.27.4 and up)
 
 ## Getting started
 
