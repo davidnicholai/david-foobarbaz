@@ -12,9 +12,6 @@ COPY . /app
 
 WORKDIR /app
 
-RUN pip install django
-RUN pip install psycopg2
-RUN pip freeze > requirements.txt
-# RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt
 
 EXPOSE 8000
